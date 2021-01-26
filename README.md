@@ -18,3 +18,5 @@ Just download and open index.html file.
 
 ## Status
 Project is done.
+
+## Project made on University of Gdańsk
